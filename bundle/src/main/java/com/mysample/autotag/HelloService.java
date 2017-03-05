@@ -10,4 +10,6 @@ public interface HelloService {
      */
     public String getRepositoryName();
 
+    System.out.println("this is the test");
+
 }

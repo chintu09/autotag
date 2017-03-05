@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Auto Tag Listener
 ========
 
@@ -28,3 +29,7 @@ The CRX host and port can be specified on the command line with:
 mvn -Dcrx.host=otherhost -Dcrx.port=5502 <goals>
 
 
+=======
+# autotag
+This is the second sample git project
+>>>>>>> 35c08c6889ac973b95b3a9a5b4cc0fc4c13a17bc
