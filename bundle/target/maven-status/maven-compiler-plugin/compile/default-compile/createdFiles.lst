@@ -1,0 +1,5 @@
+com\mysample\autotag\package-info.class
+com\mysample\autotag\impl\filters\LoggingFilter.class
+com\mysample\autotag\HelloService.class
+com\mysample\autotag\listeners\AutoTagListener.class
+com\mysample\autotag\impl\HelloServiceImpl.class
